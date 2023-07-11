@@ -14,7 +14,7 @@ import Loader from '../Loader/Loader';
 export const CaverPage = () => {
   const [modal, setModal] = useState(false);
   const location = useLocation();
-  const urlParse22 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQPVCROHD9HDTr0btDVDngYSSE5fSO3Ok57phZaO9aK3__FO3nM-zFZjGG-LnVmLB4oTnhHizNEXUoR/pub?output=csv";
+  const urlParse22 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vS52OJVBXakVJJnHU8cbEgEkif1BreSpBggtNu3In7GOPTMyHv9UL-uZie_1TnqdKnBnqvzF72v3mHz/pub?output=csv";
   // const urlParse21 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJpAqJmngxzKzdpaHbqA9kxuJkx0eljTICVi0qJ6Qk6-1YcpFBitfQOV2C2qHZ9uZF04zeNLYUSXov/pub?output=csv"
   // const urlParse22 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTqMSBKbaIPUyfikTyHNpByUzLbxWxChMy96gx1a7WKMXFGNydi2ZTgotnDwgbhLjGkXuTlhGGgsKZ8/pub?output=csv";
   // ДДТ-2022 НОРМ
