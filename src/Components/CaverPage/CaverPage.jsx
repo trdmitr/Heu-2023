@@ -18,7 +18,7 @@ export const CaverPage = () => {
   // const urlParse21 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSJpAqJmngxzKzdpaHbqA9kxuJkx0eljTICVi0qJ6Qk6-1YcpFBitfQOV2C2qHZ9uZF04zeNLYUSXov/pub?output=csv"
   // const urlParse22 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTqMSBKbaIPUyfikTyHNpByUzLbxWxChMy96gx1a7WKMXFGNydi2ZTgotnDwgbhLjGkXuTlhGGgsKZ8/pub?output=csv";
   // ДДТ-2022 НОРМ
-  const urlParse21= "https://docs.google.com/spreadsheets/d/e/2PACX-1vSpPQhfjT4O_x-GEXItq61IRLur3F1qXAvP0i-ERlrIPB8Oz-FIrYle1aXZtUdmbK-kycI651UbJTAP/pub?output=csv";
+  const urlParse21= "https://docs.google.com/spreadsheets/d/e/2PACX-1vS6iuzOmkC7RdMVy7xGA9nVlygwhtlxVTzkcr5yaJkAFm6CZadNibed7Wa2CNVmZa4L1ehka2mropLl/pub?output=csv";
   const urlParse23 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTtF49COFNRNxRK6VrFKWN1wXHLsfLPMZbJ0cKNmd4MUCOrnMgJ0CVwWFd4RSAByzY99maDNU3TvclY/pub?output=csv"
   const urlLoc = location.pathname;
   
