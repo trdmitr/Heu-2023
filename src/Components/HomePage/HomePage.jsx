@@ -25,7 +25,7 @@ export const HomePage = () => {
                       <Link to={`/cavers${yearTrib23}`} className={classes.navLink23}>2023</Link> */}
                       <div className={classes.main}>
                       
-                          <div className={classes.article}><p >Каверы группы!</p></div>
+                          <div className={classes.article}><p >Кайфа по жизни!</p></div>
                           <div className={classes.article}><img fetchpriority="high" role="presentation"  src={imgUrl} width={100} alt={imgAlt} /></div>
                           {/* <div className={classes.article}><img fetchpriority="high" role="presentation"  src={imgUrl2} width={100} alt={imgAlt} /></div> */}
                       </div>
